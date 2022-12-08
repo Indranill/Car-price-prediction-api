@@ -1,0 +1,10 @@
+pandas
+numpy
+sklearn
+scipy
+requests
+mlflow
+optuna
+flask
+flask_cors
+pickle5

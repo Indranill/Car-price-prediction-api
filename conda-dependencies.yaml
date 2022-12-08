@@ -1,0 +1,13 @@
+channels:
+- anaconda
+- conda-forge
+dependencies:
+- python=3.7.13
+- pip:
+  - pandas==1.0.5
+  - azureml-defaults
+  - joblib==0.16.0
+  - numpy==1.18.5
+  - scipy==1.5.0
+  - scikit-learn==0.23.1
+name: demo-studio
